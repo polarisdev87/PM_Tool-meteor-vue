@@ -22,7 +22,7 @@
     "gm": "^1.23.1",
     "html-to-text": "^5.1.1",
     "linkifyjs": "^2.1.8",
-    "lodash": ">=4.17.13",
+    "lodash": ">=4.17.19",
     "meteor-node-stubs": "^0.4.1",
     "mobile-drag-drop": "^2.3.0-rc.2",
     "moment": "^2.24.0",
